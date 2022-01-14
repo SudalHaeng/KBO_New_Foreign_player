@@ -1,6 +1,6 @@
 # Yasiel Puig (야시엘 푸이그)
 
-Profile | Yasiel Puig | *
+Profile | Yasiel | Puig
 --- | --- | ---
 출생 | 1990. 12. 7. | 쿠바
 신체 | 187.9cm, 108.8kg
